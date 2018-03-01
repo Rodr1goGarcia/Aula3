@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinue", "BreakContinue\BreakContinue.csproj", "{39E0D362-A2CC-4FE8-B761-6DAF98B3067E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfExample", "IfExample\IfExample.csproj", "{3427F3E6-3656-4A79-A381-056F5C457B53}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skynet", "Skynet\Skynet.csproj", "{FA40F1A1-E187-4F3D-97D7-00E982155580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbot", "Chatbot\Chatbot.csproj", "{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FA40F1A1-E187-4F3D-97D7-00E982155580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA40F1A1-E187-4F3D-97D7-00E982155580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA40F1A1-E187-4F3D-97D7-00E982155580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

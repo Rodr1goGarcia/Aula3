@@ -9,7 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfExample", "IfExample\IfEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skynet", "Skynet\Skynet.csproj", "{FA40F1A1-E187-4F3D-97D7-00E982155580}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatbot", "Chatbot\Chatbot.csproj", "{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoWRoles", "WoWRoles\WoWRoles.csproj", "{8978873F-3A05-4B09-BBA6-F8099F9A9016}"
+>>>>>>> 04b38a72d1fced398658dce0f9d7fc3da942ee8f
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +33,17 @@ Global
 		{FA40F1A1-E187-4F3D-97D7-00E982155580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA40F1A1-E187-4F3D-97D7-00E982155580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA40F1A1-E187-4F3D-97D7-00E982155580}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC0CC9DF-E835-427F-8BF5-BE8D302B1DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{8978873F-3A05-4B09-BBA6-F8099F9A9016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8978873F-3A05-4B09-BBA6-F8099F9A9016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8978873F-3A05-4B09-BBA6-F8099F9A9016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8978873F-3A05-4B09-BBA6-F8099F9A9016}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 04b38a72d1fced398658dce0f9d7fc3da942ee8f
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
